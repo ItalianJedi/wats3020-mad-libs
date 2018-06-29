@@ -7,9 +7,9 @@
 // to collect input from the user. The input you collect will be used to
 // generate the story.
 //
-//
-// TODO: Write a prompt statement like the one below for each of the
-// variables listed.
+
+
+//Prompt user for input for Madlibs project
 
 let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel).');
 
@@ -63,7 +63,8 @@ let adjective5 = prompt('What is another word you would use to describe a vehicl
 //
 // The poem we are using has section numbers. Let's allow the user to
 // generate their own.
-//
+
+//Prompt user for numbers
 let userNumber = prompt('What is your lucky number?');
 
 let number2 = userNumber**4;
